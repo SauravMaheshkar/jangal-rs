@@ -1,6 +1,6 @@
 [package]
 name = "jangal"
-version = "0.0.1"
+version = "0.0.2"
 license = "MIT"
 description = "Implementation of Tree Data Structures in Rust"
 exclude = [
