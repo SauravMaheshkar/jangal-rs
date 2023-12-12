@@ -1,3 +1,11 @@
 [package]
 name = "jangal"
 version = "0.0.1"
+license = "MIT"
+description = "Implementation of Tree Data Structures in Rust"
+exclude = [
+    "flake.nix",
+    "flake.lock",
+    ".github/",
+    ".pre-commit-config.yaml",
+]
